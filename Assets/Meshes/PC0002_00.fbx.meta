@@ -1,0 +1,2102 @@
+fileFormatVersion: 2
+guid: 1b94b34fdde428747bb26ae962ee6597
+timeCreated: 1589440655
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_CharaA_a
+    100002: C_CharaA_a 1
+    100004: C_CharaA_a_end
+    100006: C_CharaA_a_end 1
+    100008: C_Chin
+    100010: C_Chin_end
+    100012: C_Dlip
+    100014: C_Dlip_end
+    100016: C_Dlipin
+    100018: C_Dlipin_end
+    100020: C_Dlipout
+    100022: C_Dlipout_end
+    100024: C_Dteeth
+    100026: C_Dteeth_end
+    100028: C_Ex_A
+    100030: C_Ex_A_end
+    100032: C_Ex_B
+    100034: C_Ex_B_end
+    100036: C_FaceBase_a
+    100038: C_FaceBase_b
+    100040: C_Forehead
+    100042: C_Forehead_end
+    100044: C_Glabella
+    100046: C_Glabella_end
+    100048: C_HairA_a_Phy
+    100050: C_HairA_b_Phy
+    100052: C_HairA_c_Phy
+    100054: C_HairA_c_Phy_end
+    100056: C_HairB_a_Phy
+    100058: C_HairB_b_Phy
+    100060: C_HairB_c_Phy
+    100062: C_HairB_c_Phy_end
+    100064: C_HairBase_a
+    100066: C_HairC_a_Phy
+    100068: C_HairC_b_Phy
+    100070: C_HairC_c_Phy
+    100072: C_HairC_d_Phy
+    100074: C_HairC_d_Phy_end
+    100076: C_HairD_a_Phy
+    100078: C_HairD_b_Phy
+    100080: C_HairD_c_Phy
+    100082: C_HairD_d_Phy
+    100084: C_HairD_e_Phy
+    100086: C_HairD_f_Phy
+    100088: C_HairD_g_Phy
+    100090: C_HairD_h_Phy
+    100092: C_HairD_i_Phy
+    100094: C_HairD_j_Phy
+    100096: C_HairD_j_Phy_end
+    100098: C_HairD_Spo
+    100100: C_HChestKdi
+    100102: C_Head_a
+    100104: C_Hip_a
+    100106: C_Hip_a 1
+    100108: C_HipW_End
+    100110: C_HipW_End_end
+    100112: C_HipW_Spo
+    100114: C_HipWOsKdi
+    100116: C_HipWPosAKdi
+    100118: C_HipWPosBKdi
+    100120: C_HipWPosBKdi_end
+    100122: C_HipWPosCKdi
+    100124: C_HipWRotAKdi
+    100126: C_HipWRotBKdi
+    100128: C_HipWRotBKdi_end
+    100130: C_KDIRoot
+    100132: C_Neck1W_End
+    100134: C_Neck1W_End_end
+    100136: C_Neck1W_Spo
+    100138: C_Neck_a
+    100140: C_Nose_A
+    100142: C_Nose_A_end
+    100144: C_SkirtA_a_Phy
+    100146: C_SkirtA_b_Phy
+    100148: C_SkirtA_c_Phy
+    100150: C_SkirtA_c_Phy_end
+    100152: C_SkirtA_Spo
+    100154: C_SkirtB_a_Phy
+    100156: C_SkirtB_b_Phy
+    100158: C_SkirtB_c_Phy
+    100160: C_SkirtB_c_Phy_end
+    100162: C_SkirtB_Spo
+    100164: C_Spine1W_End
+    100166: C_Spine1W_End_end
+    100168: C_Spine1W_Spo
+    100170: C_Spine_a
+    100172: C_Spine_a 1
+    100174: C_Spine_b
+    100176: C_Spine_b 1
+    100178: C_Spine_c
+    100180: C_Spine_c 1
+    100182: C_Spine_d
+    100184: C_Spine_d 1
+    100186: C_SuspenderA_a_Phy
+    100188: C_SuspenderA_b_Phy
+    100190: C_SuspenderA_b_Phy_end
+    100192: C_SuspenderA_Spo
+    100194: C_SuspenderB_a_Phy
+    100196: C_SuspenderB_b_Phy
+    100198: C_SuspenderB_b_Phy_end
+    100200: C_SuspenderB_Spo
+    100202: C_Throat_A
+    100204: C_Throat_A_end
+    100206: C_Throat_B
+    100208: C_Throat_B_end
+    100210: C_Tongroot
+    100212: C_Tongroot_end
+    100214: C_Tongtip
+    100216: C_Tongtip_end
+    100218: C_Ulip
+    100220: C_Ulip_end
+    100222: C_Ulipin
+    100224: C_Ulipin_end
+    100226: C_Ulipout
+    100228: C_Ulipout_end
+    100230: C_UpperLeg_Kdi
+    100232: C_UpperLeg_Kdi_end
+    100234: C_Uteeth
+    100236: C_Uteeth_end
+    100238: L_Ankle_End
+    100240: L_Ankle_End_end
+    100242: L_Ankle_Spo
+    100244: L_AnklePart_End
+    100246: L_AnklePart_End_end
+    100248: L_AnklePart_Spo
+    100250: L_BeltA_a_Phy
+    100252: L_BeltA_b_Phy
+    100254: L_BeltA_c_Phy
+    100256: L_BeltA_d_Phy
+    100258: L_BeltA_d_Phy_end
+    100260: L_BeltA_Spo
+    100262: L_BeltB_a_Phy
+    100264: L_BeltB_b_Phy
+    100266: L_BeltB_c_Phy
+    100268: L_BeltB_d_Phy
+    100270: L_BeltB_d_Phy_end
+    100272: L_BeltB_Spo
+    100274: L_BicepsA_End
+    100276: L_BicepsA_End_end
+    100278: L_BicepsA_Spo
+    100280: L_BicepsB_End
+    100282: L_BicepsB_End_end
+    100284: L_BicepsB_Spo
+    100286: L_Breast_a_Phy
+    100288: L_Breast_b_Phy
+    100290: L_Breast_b_Phy_end
+    100292: L_Breast_Spo
+    100294: L_Brow_A
+    100296: L_Brow_A_end
+    100298: L_Brow_B
+    100300: L_Brow_B_end
+    100302: L_Brow_C
+    100304: L_Brow_C_end
+    100306: L_Bust_End
+    100308: L_Bust_End 1
+    100310: L_Bust_End_end
+    100312: L_Bust_End_end 1
+    100314: L_Bust_Spo
+    100316: L_Bust_Spo 1
+    100318: L_CalfB_End
+    100320: L_CalfB_End_end
+    100322: L_CalfB_Spo
+    100324: L_CalfF_End
+    100326: L_CalfF_End_end
+    100328: L_CalfF_Spo
+    100330: L_Cheek_A
+    100332: L_Cheek_A_end
+    100334: L_Cheek_B
+    100336: L_Cheek_B_end
+    100338: L_Cheek_C
+    100340: L_Cheek_C_end
+    100342: L_Dcor
+    100344: L_Dcor_end
+    100346: L_Dcorin
+    100348: L_Dcorin_end
+    100350: L_DeltoidA_End
+    100352: L_DeltoidA_End 1
+    100354: L_DeltoidA_End_end
+    100356: L_DeltoidA_End_end 1
+    100358: L_DeltoidA_Spo
+    100360: L_DeltoidA_Spo 1
+    100362: L_DeltoidB_End
+    100364: L_DeltoidB_End 1
+    100366: L_DeltoidB_End_end
+    100368: L_DeltoidB_End_end 1
+    100370: L_DeltoidB_Spo
+    100372: L_DeltoidB_Spo 1
+    100374: L_DeltoidC_End
+    100376: L_DeltoidC_End 1
+    100378: L_DeltoidC_End_end
+    100380: L_DeltoidC_End_end 1
+    100382: L_DeltoidC_Spo
+    100384: L_DeltoidC_Spo 1
+    100386: L_Dlid_A
+    100388: L_Dlid_A_end
+    100390: L_Dlid_B
+    100392: L_Dlid_B_end
+    100394: L_Dlid_C
+    100396: L_Dlid_C_end
+    100398: L_Dlip_A
+    100400: L_Dlip_A_end
+    100402: L_Dlip_B
+    100404: L_Dlip_B_end
+    100406: L_Dlipin_A
+    100408: L_Dlipin_A_end
+    100410: L_Dlipin_B
+    100412: L_Dlipin_B_end
+    100414: L_Dlipout_A
+    100416: L_Dlipout_A_end
+    100418: L_Dlipout_B
+    100420: L_Dlipout_B_end
+    100422: L_Earring_a_Phy
+    100424: L_Earring_b_Phy
+    100426: L_Earring_c_Phy
+    100428: L_Earring_c_Phy_end
+    100430: L_Earring_Spo
+    100432: L_Elbow_End
+    100434: L_Elbow_End 1
+    100436: L_Elbow_End_end
+    100438: L_Elbow_End_end 1
+    100440: L_Elbow_Spo
+    100442: L_Elbow_Spo 1
+    100444: L_ExToe_End
+    100446: L_ExToe_End_end
+    100448: L_ExToe_Spo
+    100450: L_Eye
+    100452: L_Eye_end
+    100454: L_Eyebag_A
+    100456: L_Eyebag_A_end
+    100458: L_Eyebag_B
+    100460: L_Eyebag_B_end
+    100462: L_FemorisA_End
+    100464: L_FemorisA_End_end
+    100466: L_FemorisA_Spo
+    100468: L_FemorisB_End
+    100470: L_FemorisB_End_end
+    100472: L_FemorisB_Spo
+    100474: L_FemorisBicepsA_End
+    100476: L_FemorisBicepsA_End_end
+    100478: L_FemorisBicepsA_Spo
+    100480: L_FemorisBicepsB_End
+    100482: L_FemorisBicepsB_End_end
+    100484: L_FemorisBicepsB_Spo
+    100486: L_FemorisC_End
+    100488: L_FemorisC_End_end
+    100490: L_FemorisC_Spo
+    100492: L_Fold_A
+    100494: L_Fold_A_end
+    100496: L_Fold_B
+    100498: L_Fold_B_end
+    100500: L_Foot_a
+    100502: L_Forearm_a
+    100504: L_Forearm_a 1
+    100506: L_ForearmrollA_End
+    100508: L_ForearmrollA_End 1
+    100510: L_ForearmrollA_End_end
+    100512: L_ForearmrollA_End_end 1
+    100514: L_ForearmrollA_Spo
+    100516: L_ForearmrollA_Spo 1
+    100518: L_ForearmrollB_End
+    100520: L_ForearmrollB_End 1
+    100522: L_ForearmrollB_End_end
+    100524: L_ForearmrollB_End_end 1
+    100526: L_ForearmrollB_Spo
+    100528: L_ForearmrollB_Spo 1
+    100530: L_ForearmrollC_End
+    100532: L_ForearmrollC_End 1
+    100534: L_ForearmrollC_End_end
+    100536: L_ForearmrollC_End_end 1
+    100538: L_ForearmrollC_Spo
+    100540: L_ForearmrollC_Spo 1
+    100542: L_Forehead
+    100544: L_Forehead_end
+    100546: L_Foreleg_a
+    100548: L_Glabella
+    100550: L_Glabella_end
+    100552: L_Gonion
+    100554: L_Gonion_end
+    100556: L_HairA_a_Phy
+    100558: L_HairA_b_Phy
+    100560: L_HairA_c_Phy
+    100562: L_HairA_c_Phy_end
+    100564: L_HairB_a_Phy
+    100566: L_HairB_b_Phy
+    100568: L_HairB_c_Phy
+    100570: L_HairB_c_Phy_end
+    100572: L_HairC_a_Phy
+    100574: L_HairC_b_Phy
+    100576: L_HairC_b_Phy_end
+    100578: L_HairD_a_Phy
+    100580: L_HairD_b_Phy
+    100582: L_HairD_c_Phy
+    100584: L_HairD_d_Phy
+    100586: L_HairD_d_Phy_end
+    100588: L_HairE_a_Phy
+    100590: L_HairE_b_Phy
+    100592: L_HairE_c_Phy
+    100594: L_HairE_d_Phy
+    100596: L_HairE_e_Phy
+    100598: L_HairE_f_Phy
+    100600: L_HairE_g_Phy
+    100602: L_HairE_h_Phy
+    100604: L_HairE_h_Phy_end
+    100606: L_HairE_Spo
+    100608: L_Hand_a
+    100610: L_Hand_a 1
+    100612: L_Hip_End
+    100614: L_Hip_End_end
+    100616: L_Hip_Spo
+    100618: L_Index_a
+    100620: L_Index_a 1
+    100622: L_Index_b
+    100624: L_Index_b 1
+    100626: L_Index_c
+    100628: L_Index_c 1
+    100630: L_Index_End
+    100632: L_Index_End 1
+    100634: L_Index_End_end
+    100636: L_Index_End_end 1
+    100638: L_Knee_End
+    100640: L_Knee_End_end
+    100642: L_Knee_Spo
+    100644: L_Knuckle_End
+    100646: L_Knuckle_End_end
+    100648: L_Knuckle_Spo
+    100650: L_KnuckleIndex_End
+    100652: L_KnuckleIndex_End_end
+    100654: L_KnuckleIndexA_Spo
+    100656: L_KnuckleIndexB_Spo
+    100658: L_KnuckleMiddle_End
+    100660: L_KnuckleMiddle_End_end
+    100662: L_KnuckleMiddleA_Spo
+    100664: L_KnuckleMiddleB_Spo
+    100666: L_KnucklePinky_End
+    100668: L_KnucklePinky_End_end
+    100670: L_KnucklePinkyA_Spo
+    100672: L_KnucklePinkyB_Spo
+    100674: L_KnuckleRing_End
+    100676: L_KnuckleRing_End_end
+    100678: L_KnuckleRingA_Spo
+    100680: L_KnuckleRingB_Spo
+    100682: L_Laughline_A
+    100684: L_Laughline_A_end
+    100686: L_Laughline_B
+    100688: L_Laughline_B_end
+    100690: L_Middle_a
+    100692: L_Middle_a 1
+    100694: L_Middle_b
+    100696: L_Middle_b 1
+    100698: L_Middle_c
+    100700: L_Middle_c 1
+    100702: L_Middle_End
+    100704: L_Middle_End 1
+    100706: L_Middle_End_end
+    100708: L_Middle_End_end 1
+    100710: L_Nose_A
+    100712: L_Nose_A_end
+    100714: L_Nose_B
+    100716: L_Nose_B_end
+    100718: L_Pinky_a
+    100720: L_Pinky_a 1
+    100722: L_Pinky_b
+    100724: L_Pinky_b 1
+    100726: L_Pinky_c
+    100728: L_Pinky_c 1
+    100730: L_Pinky_End
+    100732: L_Pinky_End 1
+    100734: L_Pinky_End_end
+    100736: L_Pinky_End_end 1
+    100738: L_Protector_End
+    100740: L_Protector_End_end
+    100742: L_Protector_Spo
+    100744: L_ProtectorA_End
+    100746: L_ProtectorA_End_end
+    100748: L_ProtectorA_Spo
+    100750: L_ProtectorB_End
+    100752: L_ProtectorB_End_end
+    100754: L_ProtectorB_Spo
+    100756: L_ProtectorBeltA_End
+    100758: L_ProtectorBeltA_End_end
+    100760: L_ProtectorBeltA_Spo
+    100762: L_ProtectorBeltB_End
+    100764: L_ProtectorBeltB_End_end
+    100766: L_ProtectorBeltB_Spo
+    100768: L_ProtectorBeltC_End
+    100770: L_ProtectorBeltC_End_end
+    100772: L_ProtectorBeltC_Spo
+    100774: L_Ring_a
+    100776: L_Ring_a 1
+    100778: L_Ring_b
+    100780: L_Ring_b 1
+    100782: L_Ring_c
+    100784: L_Ring_c 1
+    100786: L_Ring_End
+    100788: L_Ring_End 1
+    100790: L_Ring_End_end
+    100792: L_Ring_End_end 1
+    100794: L_Shoulder_a
+    100796: L_Shoulder_a 1
+    100798: L_ShoulderSub_End
+    100800: L_ShoulderSub_End 1
+    100802: L_ShoulderSub_End_end
+    100804: L_ShoulderSub_End_end 1
+    100806: L_ShoulderSub_Spo
+    100808: L_ShoulderSub_Spo 1
+    100810: L_SkirtA_a_Phy
+    100812: L_SkirtA_b_Phy
+    100814: L_SkirtA_c_Phy
+    100816: L_SkirtA_c_Phy_end
+    100818: L_SkirtA_Spo
+    100820: L_SkirtB_a_Phy
+    100822: L_SkirtB_b_Phy
+    100824: L_SkirtB_c_Phy
+    100826: L_SkirtB_c_Phy_end
+    100828: L_SkirtB_Spo
+    100830: L_SkirtC_a_Phy
+    100832: L_SkirtC_b_Phy
+    100834: L_SkirtC_c_Phy
+    100836: L_SkirtC_c_Phy_end
+    100838: L_SkirtC_Spo
+    100840: L_SkirtD_a_Phy
+    100842: L_SkirtD_b_Phy
+    100844: L_SkirtD_c_Phy
+    100846: L_SkirtD_c_Phy_end
+    100848: L_SkirtD_Spo
+    100850: L_SuspenderA_a_Phy
+    100852: L_SuspenderA_a_Phy 1
+    100854: L_SuspenderA_b_Phy
+    100856: L_SuspenderA_b_Phy 1
+    100858: L_SuspenderA_b_Phy_end
+    100860: L_SuspenderA_b_Phy_end 1
+    100862: L_SuspenderA_Spo
+    100864: L_SuspenderA_Spo 1
+    100866: L_SuspenderB_a_Phy
+    100868: L_SuspenderB_a_Phy 1
+    100870: L_SuspenderB_b_Phy
+    100872: L_SuspenderB_b_Phy 1
+    100874: L_SuspenderB_b_Phy_end
+    100876: L_SuspenderB_b_Phy_end 1
+    100878: L_SuspenderB_Spo
+    100880: L_SuspenderB_Spo 1
+    100882: L_SuspenderC_a_Phy
+    100884: L_SuspenderC_b_Phy
+    100886: L_SuspenderC_b_Phy_end
+    100888: L_SuspenderC_Spo
+    100890: L_SuspenderD_a_Phy
+    100892: L_SuspenderD_b_Phy
+    100894: L_SuspenderD_b_Phy_end
+    100896: L_SuspenderD_Spo
+    100898: L_SuspenderE_a_Phy
+    100900: L_SuspenderE_b_Phy
+    100902: L_SuspenderE_b_Phy_end
+    100904: L_SuspenderE_Spo
+    100906: L_Thumb_a
+    100908: L_Thumb_a 1
+    100910: L_Thumb_b
+    100912: L_Thumb_b 1
+    100914: L_Thumb_c
+    100916: L_Thumb_c 1
+    100918: L_Thumb_End
+    100920: L_Thumb_End 1
+    100922: L_Thumb_End_end
+    100924: L_Thumb_End_end 1
+    100926: L_Toe_a
+    100928: L_Toe_End
+    100930: L_Toe_End_end
+    100932: L_Ucor
+    100934: L_Ucor_end
+    100936: L_Ucorin
+    100938: L_Ucorin_end
+    100940: L_Ulash_A
+    100942: L_Ulash_A_end
+    100944: L_Ulash_B
+    100946: L_Ulash_B_end
+    100948: L_Ulid_A
+    100950: L_Ulid_A_end
+    100952: L_Ulid_B
+    100954: L_Ulid_B_end
+    100956: L_Ulid_C
+    100958: L_Ulid_C_end
+    100960: L_Ulid_D
+    100962: L_Ulid_D_end
+    100964: L_Ulid_E
+    100966: L_Ulid_E_end
+    100968: L_Ulip_A
+    100970: L_Ulip_A_end
+    100972: L_Ulip_B
+    100974: L_Ulip_B_end
+    100976: L_Ulipin_A
+    100978: L_Ulipin_A_end
+    100980: L_Ulipin_B
+    100982: L_Ulipin_B_end
+    100984: L_UpperArm_a
+    100986: L_UpperArm_a 1
+    100988: L_UpperLeg_a
+    100990: L_UpperLeg_Kdi
+    100992: L_UpperLeg_Kdi_end
+    100994: L_Weapon_a
+    100996: L_Weapon_a 1
+    100998: L_Weapon_a_end
+    101000: L_Weapon_a_end 1
+    101002: L_WirePosKdi
+    101004: L_WirePosKdi_end
+    101006: L_Wrist_End
+    101008: L_Wrist_End 1
+    101010: L_Wrist_End_end
+    101012: L_Wrist_End_end 1
+    101014: L_Wrist_Spo
+    101016: L_Wrist_Spo 1
+    101018: L_WristBand_End
+    101020: L_WristBand_End_end
+    101022: L_WristBand_Spo
+    101024: L_WristGurde_End
+    101026: L_WristGurde_End_end
+    101028: L_WristGurde_Spo
+    101030: L_WristSubA_a_Phy
+    101032: L_WristSubA_b_Phy
+    101034: L_WristSubA_b_Phy_end
+    101036: L_WristSubA_End
+    101038: L_WristSubA_End_end
+    101040: L_WristSubA_Spo
+    101042: L_WristSubB_a_Phy
+    101044: L_WristSubB_b_Phy
+    101046: L_WristSubB_b_Phy_end
+    101048: L_WristSubB_End
+    101050: L_WristSubB_End_end
+    101052: L_WristSubB_Spo
+    101054: L_WristSubC_a_Phy
+    101056: L_WristSubC_b_Phy
+    101058: L_WristSubC_b_Phy_end
+    101060: L_WristSubC_End
+    101062: L_WristSubC_End_end
+    101064: L_WristSubC_Spo
+    101066: L_WristSubD_a_Phy
+    101068: L_WristSubD_b_Phy
+    101070: L_WristSubD_b_Phy_end
+    101072: L_WristSubD_End
+    101074: L_WristSubD_End_end
+    101076: L_WristSubD_Spo
+    101078: L_WristSubE_a_Phy
+    101080: L_WristSubE_b_Phy
+    101082: L_WristSubE_b_Phy_end
+    101084: L_WristSubE_End
+    101086: L_WristSubE_End_end
+    101088: L_WristSubE_Spo
+    101090: L_WristSubF_a_Phy
+    101092: L_WristSubF_b_Phy
+    101094: L_WristSubF_b_Phy_end
+    101096: L_WristSubF_End
+    101098: L_WristSubF_End_end
+    101100: L_WristSubF_Spo
+    101102: L_WristSubG_a_Phy
+    101104: L_WristSubG_b_Phy
+    101106: L_WristSubG_b_Phy_end
+    101108: L_WristSubG_End
+    101110: L_WristSubG_End_end
+    101112: L_WristSubG_Spo
+    101114: L_WristSubH_a_Phy
+    101116: L_WristSubH_b_Phy
+    101118: L_WristSubH_b_Phy_end
+    101120: L_WristSubH_End
+    101122: L_WristSubH_End_end
+    101124: L_WristSubH_Spo
+    101126: L_WristSubRoot_Spo
+    101128: L_Zygoma
+    101130: L_Zygoma_end
+    101132: //RootNode
+    101134: R_BeltA_a_Phy
+    101136: R_BeltA_b_Phy
+    101138: R_BeltA_c_Phy
+    101140: R_BeltA_d_Phy
+    101142: R_BeltA_d_Phy_end
+    101144: R_BeltA_Spo
+    101146: R_BeltB_a_Phy
+    101148: R_BeltB_b_Phy
+    101150: R_BeltB_c_Phy
+    101152: R_BeltB_d_Phy
+    101154: R_BeltB_d_Phy_end
+    101156: R_BeltB_Spo
+    101158: R_BicepsA_End
+    101160: R_BicepsA_End_end
+    101162: R_BicepsA_Spo
+    101164: R_BicepsB_End
+    101166: R_BicepsB_End_end
+    101168: R_BicepsB_Spo
+    101170: R_Breast_a_Phy
+    101172: R_Breast_b_Phy
+    101174: R_Breast_b_Phy_end
+    101176: R_Breast_Spo
+    101178: R_Brow_A
+    101180: R_Brow_A_end
+    101182: R_Brow_B
+    101184: R_Brow_B_end
+    101186: R_Brow_C
+    101188: R_Brow_C_end
+    101190: R_Bust_End
+    101192: R_Bust_End 1
+    101194: R_Bust_End_end
+    101196: R_Bust_End_end 1
+    101198: R_Bust_Spo
+    101200: R_Bust_Spo 1
+    101202: R_CalfB_End
+    101204: R_CalfB_End_end
+    101206: R_CalfB_Spo
+    101208: R_CalfF_End
+    101210: R_CalfF_End_end
+    101212: R_CalfF_Spo
+    101214: R_Cheek_A
+    101216: R_Cheek_A_end
+    101218: R_Cheek_B
+    101220: R_Cheek_B_end
+    101222: R_Cheek_C
+    101224: R_Cheek_C_end
+    101226: R_Dcor
+    101228: R_Dcor_end
+    101230: R_Dcorin
+    101232: R_Dcorin_end
+    101234: R_DeltoidA_End
+    101236: R_DeltoidA_End 1
+    101238: R_DeltoidA_End_end
+    101240: R_DeltoidA_End_end 1
+    101242: R_DeltoidA_Spo
+    101244: R_DeltoidA_Spo 1
+    101246: R_DeltoidB_End
+    101248: R_DeltoidB_End 1
+    101250: R_DeltoidB_End_end
+    101252: R_DeltoidB_End_end 1
+    101254: R_DeltoidB_Spo
+    101256: R_DeltoidB_Spo 1
+    101258: R_DeltoidC_End
+    101260: R_DeltoidC_End 1
+    101262: R_DeltoidC_End_end
+    101264: R_DeltoidC_End_end 1
+    101266: R_DeltoidC_Spo
+    101268: R_DeltoidC_Spo 1
+    101270: R_Dlid_A
+    101272: R_Dlid_A_end
+    101274: R_Dlid_B
+    101276: R_Dlid_B_end
+    101278: R_Dlid_C
+    101280: R_Dlid_C_end
+    101282: R_Dlip_A
+    101284: R_Dlip_A_end
+    101286: R_Dlip_B
+    101288: R_Dlip_B_end
+    101290: R_Dlipin_A
+    101292: R_Dlipin_A_end
+    101294: R_Dlipin_B
+    101296: R_Dlipin_B_end
+    101298: R_Dlipout_A
+    101300: R_Dlipout_A_end
+    101302: R_Dlipout_B
+    101304: R_Dlipout_B_end
+    101306: R_Elbow_End
+    101308: R_Elbow_End 1
+    101310: R_Elbow_End_end
+    101312: R_Elbow_End_end 1
+    101314: R_Elbow_Spo
+    101316: R_Elbow_Spo 1
+    101318: R_Eye
+    101320: R_Eye_end
+    101322: R_Eyebag_A
+    101324: R_Eyebag_A_end
+    101326: R_Eyebag_B
+    101328: R_Eyebag_B_end
+    101330: R_FemorisA_End
+    101332: R_FemorisA_End_end
+    101334: R_FemorisA_Spo
+    101336: R_FemorisB_End
+    101338: R_FemorisB_End_end
+    101340: R_FemorisB_Spo
+    101342: R_FemorisBicepsA_End
+    101344: R_FemorisBicepsA_End_end
+    101346: R_FemorisBicepsA_Spo
+    101348: R_FemorisBicepsB_End
+    101350: R_FemorisBicepsB_End_end
+    101352: R_FemorisBicepsB_Spo
+    101354: R_FemorisC_End
+    101356: R_FemorisC_End_end
+    101358: R_FemorisC_Spo
+    101360: R_Fold_A
+    101362: R_Fold_A_end
+    101364: R_Fold_B
+    101366: R_Fold_B_end
+    101368: R_Foot_a
+    101370: R_Forearm_a
+    101372: R_Forearm_a 1
+    101374: R_ForearmrollA_End
+    101376: R_ForearmrollA_End 1
+    101378: R_ForearmrollA_End_end
+    101380: R_ForearmrollA_End_end 1
+    101382: R_ForearmrollA_Spo
+    101384: R_ForearmrollA_Spo 1
+    101386: R_ForearmrollB_End
+    101388: R_ForearmrollB_End 1
+    101390: R_ForearmrollB_End_end
+    101392: R_ForearmrollB_End_end 1
+    101394: R_ForearmrollB_Spo
+    101396: R_ForearmrollB_Spo 1
+    101398: R_ForearmrollC_End
+    101400: R_ForearmrollC_End 1
+    101402: R_ForearmrollC_End_end
+    101404: R_ForearmrollC_End_end 1
+    101406: R_ForearmrollC_Spo
+    101408: R_ForearmrollC_Spo 1
+    101410: R_Forehead
+    101412: R_Forehead_end
+    101414: R_Foreleg_a
+    101416: R_Glabella
+    101418: R_Glabella_end
+    101420: R_Gonion
+    101422: R_Gonion_end
+    101424: R_HairA_a_Phy
+    101426: R_HairA_b_Phy
+    101428: R_HairA_c_Phy
+    101430: R_HairA_d_Phy
+    101432: R_HairA_d_Phy_end
+    101434: R_HairB_a_Phy
+    101436: R_HairB_b_Phy
+    101438: R_HairB_c_Phy
+    101440: R_HairB_d_Phy
+    101442: R_HairB_e_Phy
+    101444: R_HairB_f_Phy
+    101446: R_HairB_f_Phy_end
+    101448: R_HairC_a_Phy
+    101450: R_HairC_b_Phy
+    101452: R_HairC_c_Phy
+    101454: R_HairC_d_Phy
+    101456: R_HairC_e_Phy
+    101458: R_HairC_f_Phy
+    101460: R_HairC_f_Phy_end
+    101462: R_HairD_a_Phy
+    101464: R_HairD_b_Phy
+    101466: R_HairD_c_Phy
+    101468: R_HairD_d_Phy
+    101470: R_HairD_e_Phy
+    101472: R_HairD_f_Phy
+    101474: R_HairD_f_Phy_end
+    101476: R_HairE_a_Phy
+    101478: R_HairE_b_Phy
+    101480: R_HairE_c_Phy
+    101482: R_HairE_d_Phy
+    101484: R_HairE_e_Phy
+    101486: R_HairE_f_Phy
+    101488: R_HairE_g_Phy
+    101490: R_HairE_h_Phy
+    101492: R_HairE_h_Phy_end
+    101494: R_HairE_Spo
+    101496: R_HairF_a_Phy
+    101498: R_HairF_b_Phy
+    101500: R_HairF_c_Phy
+    101502: R_HairF_d_Phy
+    101504: R_HairF_d_Phy_end
+    101506: R_HairG_a_Phy
+    101508: R_HairG_b_Phy
+    101510: R_HairG_c_Phy
+    101512: R_HairG_c_Phy_end
+    101514: R_Hand_a
+    101516: R_Hand_a 1
+    101518: R_Hip_End
+    101520: R_Hip_End_end
+    101522: R_Hip_Spo
+    101524: R_Index_a
+    101526: R_Index_a 1
+    101528: R_Index_b
+    101530: R_Index_b 1
+    101532: R_Index_c
+    101534: R_Index_c 1
+    101536: R_Index_End
+    101538: R_Index_End 1
+    101540: R_Index_End_end
+    101542: R_Index_End_end 1
+    101544: R_Knee_End
+    101546: R_Knee_End_end
+    101548: R_Knee_Spo
+    101550: R_Knuckle_End
+    101552: R_Knuckle_End_end
+    101554: R_Knuckle_Spo
+    101556: R_KnuckleIndex_End
+    101558: R_KnuckleIndex_End_end
+    101560: R_KnuckleIndexA_Spo
+    101562: R_KnuckleIndexB_Spo
+    101564: R_KnuckleMiddle_End
+    101566: R_KnuckleMiddle_End_end
+    101568: R_KnuckleMiddleA_Spo
+    101570: R_KnuckleMiddleB_Spo
+    101572: R_KnucklePinky_End
+    101574: R_KnucklePinky_End_end
+    101576: R_KnucklePinkyA_Spo
+    101578: R_KnucklePinkyB_Spo
+    101580: R_KnuckleRing_End
+    101582: R_KnuckleRing_End_end
+    101584: R_KnuckleRingA_Spo
+    101586: R_KnuckleRingB_Spo
+    101588: R_Laughline_A
+    101590: R_Laughline_A_end
+    101592: R_Laughline_B
+    101594: R_Laughline_B_end
+    101596: R_Middle_a
+    101598: R_Middle_a 1
+    101600: R_Middle_b
+    101602: R_Middle_b 1
+    101604: R_Middle_c
+    101606: R_Middle_c 1
+    101608: R_Middle_End
+    101610: R_Middle_End 1
+    101612: R_Middle_End_end
+    101614: R_Middle_End_end 1
+    101616: R_Nose_A
+    101618: R_Nose_A_end
+    101620: R_Nose_B
+    101622: R_Nose_B_end
+    101624: R_Pinky_a
+    101626: R_Pinky_a 1
+    101628: R_Pinky_b
+    101630: R_Pinky_b 1
+    101632: R_Pinky_c
+    101634: R_Pinky_c 1
+    101636: R_Pinky_End
+    101638: R_Pinky_End 1
+    101640: R_Pinky_End_end
+    101642: R_Pinky_End_end 1
+    101644: R_Ring_a
+    101646: R_Ring_a 1
+    101648: R_Ring_b
+    101650: R_Ring_b 1
+    101652: R_Ring_c
+    101654: R_Ring_c 1
+    101656: R_Ring_End
+    101658: R_Ring_End 1
+    101660: R_Ring_End_end
+    101662: R_Ring_End_end 1
+    101664: R_Shoulder_a
+    101666: R_Shoulder_a 1
+    101668: R_ShoulderSub_End
+    101670: R_ShoulderSub_End 1
+    101672: R_ShoulderSub_End_end
+    101674: R_ShoulderSub_End_end 1
+    101676: R_ShoulderSub_Spo
+    101678: R_ShoulderSub_Spo 1
+    101680: R_SkirtA_a_Phy
+    101682: R_SkirtA_b_Phy
+    101684: R_SkirtA_c_Phy
+    101686: R_SkirtA_c_Phy_end
+    101688: R_SkirtA_Spo
+    101690: R_SkirtB_a_Phy
+    101692: R_SkirtB_b_Phy
+    101694: R_SkirtB_c_Phy
+    101696: R_SkirtB_c_Phy_end
+    101698: R_SkirtB_Spo
+    101700: R_SkirtC_a_Phy
+    101702: R_SkirtC_b_Phy
+    101704: R_SkirtC_c_Phy
+    101706: R_SkirtC_c_Phy_end
+    101708: R_SkirtC_Spo
+    101710: R_SkirtD_a_Phy
+    101712: R_SkirtD_b_Phy
+    101714: R_SkirtD_c_Phy
+    101716: R_SkirtD_c_Phy_end
+    101718: R_SkirtD_Spo
+    101720: R_SuspenderA_a_Phy
+    101722: R_SuspenderA_a_Phy 1
+    101724: R_SuspenderA_b_Phy
+    101726: R_SuspenderA_b_Phy 1
+    101728: R_SuspenderA_b_Phy_end
+    101730: R_SuspenderA_b_Phy_end 1
+    101732: R_SuspenderA_Spo
+    101734: R_SuspenderA_Spo 1
+    101736: R_SuspenderB_a_Phy
+    101738: R_SuspenderB_a_Phy 1
+    101740: R_SuspenderB_b_Phy
+    101742: R_SuspenderB_b_Phy 1
+    101744: R_SuspenderB_b_Phy_end
+    101746: R_SuspenderB_b_Phy_end 1
+    101748: R_SuspenderB_Spo
+    101750: R_SuspenderB_Spo 1
+    101752: R_SuspenderC_a_Phy
+    101754: R_SuspenderC_b_Phy
+    101756: R_SuspenderC_b_Phy_end
+    101758: R_SuspenderC_Spo
+    101760: R_SuspenderD_a_Phy
+    101762: R_SuspenderD_b_Phy
+    101764: R_SuspenderD_b_Phy_end
+    101766: R_SuspenderD_Spo
+    101768: R_SuspenderE_a_Phy
+    101770: R_SuspenderE_b_Phy
+    101772: R_SuspenderE_b_Phy_end
+    101774: R_SuspenderE_Spo
+    101776: R_Thumb_a
+    101778: R_Thumb_a 1
+    101780: R_Thumb_b
+    101782: R_Thumb_b 1
+    101784: R_Thumb_c
+    101786: R_Thumb_c 1
+    101788: R_Thumb_End
+    101790: R_Thumb_End 1
+    101792: R_Thumb_End_end
+    101794: R_Thumb_End_end 1
+    101796: R_Toe_a
+    101798: R_Toe_End
+    101800: R_Toe_End_end
+    101802: R_Ucor
+    101804: R_Ucor_end
+    101806: R_Ucorin
+    101808: R_Ucorin_end
+    101810: R_Ulash_A
+    101812: R_Ulash_A_end
+    101814: R_Ulash_B
+    101816: R_Ulash_B_end
+    101818: R_Ulid_A
+    101820: R_Ulid_A_end
+    101822: R_Ulid_B
+    101824: R_Ulid_B_end
+    101826: R_Ulid_C
+    101828: R_Ulid_C_end
+    101830: R_Ulid_D
+    101832: R_Ulid_D_end
+    101834: R_Ulid_E
+    101836: R_Ulid_E_end
+    101838: R_Ulip_A
+    101840: R_Ulip_A_end
+    101842: R_Ulip_B
+    101844: R_Ulip_B_end
+    101846: R_Ulipin_A
+    101848: R_Ulipin_A_end
+    101850: R_Ulipin_B
+    101852: R_Ulipin_B_end
+    101854: R_UpperArm_a
+    101856: R_UpperArm_a 1
+    101858: R_UpperLeg_a
+    101860: R_UpperLeg_Kdi
+    101862: R_UpperLeg_Kdi_end
+    101864: R_Weapon_a
+    101866: R_Weapon_a 1
+    101868: R_Weapon_a_end
+    101870: R_Weapon_a_end 1
+    101872: R_WirePosKdi
+    101874: R_WirePosKdi_end
+    101876: R_Wrist_End
+    101878: R_Wrist_End 1
+    101880: R_Wrist_End_end
+    101882: R_Wrist_End_end 1
+    101884: R_Wrist_Spo
+    101886: R_Wrist_Spo 1
+    101888: R_WristBand_End
+    101890: R_WristBand_End_end
+    101892: R_WristBand_Spo
+    101894: R_WristGurde_End
+    101896: R_WristGurde_End_end
+    101898: R_WristGurde_Spo
+    101900: R_WristSubA_a_Phy
+    101902: R_WristSubA_b_Phy
+    101904: R_WristSubA_b_Phy_end
+    101906: R_WristSubA_End
+    101908: R_WristSubA_End_end
+    101910: R_WristSubA_Spo
+    101912: R_WristSubB_a_Phy
+    101914: R_WristSubB_b_Phy
+    101916: R_WristSubB_b_Phy_end
+    101918: R_WristSubB_End
+    101920: R_WristSubB_End_end
+    101922: R_WristSubB_Spo
+    101924: R_WristSubC_a_Phy
+    101926: R_WristSubC_b_Phy
+    101928: R_WristSubC_b_Phy_end
+    101930: R_WristSubC_End
+    101932: R_WristSubC_End_end
+    101934: R_WristSubC_Spo
+    101936: R_WristSubD_a_Phy
+    101938: R_WristSubD_b_Phy
+    101940: R_WristSubD_b_Phy_end
+    101942: R_WristSubD_End
+    101944: R_WristSubD_End_end
+    101946: R_WristSubD_Spo
+    101948: R_WristSubE_a_Phy
+    101950: R_WristSubE_b_Phy
+    101952: R_WristSubE_b_Phy_end
+    101954: R_WristSubE_End
+    101956: R_WristSubE_End_end
+    101958: R_WristSubE_Spo
+    101960: R_WristSubF_a_Phy
+    101962: R_WristSubF_b_Phy
+    101964: R_WristSubF_b_Phy_end
+    101966: R_WristSubF_End
+    101968: R_WristSubF_End_end
+    101970: R_WristSubF_Spo
+    101972: R_WristSubG_a_Phy
+    101974: R_WristSubG_b_Phy
+    101976: R_WristSubG_b_Phy_end
+    101978: R_WristSubG_End
+    101980: R_WristSubG_End_end
+    101982: R_WristSubG_Spo
+    101984: R_WristSubH_a_Phy
+    101986: R_WristSubH_b_Phy
+    101988: R_WristSubH_b_Phy_end
+    101990: R_WristSubH_End
+    101992: R_WristSubH_End_end
+    101994: R_WristSubH_Spo
+    101996: R_WristSubRoot_Spo
+    101998: R_Zygoma
+    102000: R_Zygoma_end
+    102002: Tifa_LeatherGlove_Armature
+    102004: Tifa_LeatherGlove_model
+    102006: Tifa_Standard_Armature
+    102008: Tifa_Standard_model
+    102010: Tifa_Standard_model_MeshPart0
+    102012: Tifa_Standard_model_MeshPart1
+    102014: Trans
+    102016: Trans 1
+    400000: C_CharaA_a
+    400002: C_CharaA_a 1
+    400004: C_CharaA_a_end
+    400006: C_CharaA_a_end 1
+    400008: C_Chin
+    400010: C_Chin_end
+    400012: C_Dlip
+    400014: C_Dlip_end
+    400016: C_Dlipin
+    400018: C_Dlipin_end
+    400020: C_Dlipout
+    400022: C_Dlipout_end
+    400024: C_Dteeth
+    400026: C_Dteeth_end
+    400028: C_Ex_A
+    400030: C_Ex_A_end
+    400032: C_Ex_B
+    400034: C_Ex_B_end
+    400036: C_FaceBase_a
+    400038: C_FaceBase_b
+    400040: C_Forehead
+    400042: C_Forehead_end
+    400044: C_Glabella
+    400046: C_Glabella_end
+    400048: C_HairA_a_Phy
+    400050: C_HairA_b_Phy
+    400052: C_HairA_c_Phy
+    400054: C_HairA_c_Phy_end
+    400056: C_HairB_a_Phy
+    400058: C_HairB_b_Phy
+    400060: C_HairB_c_Phy
+    400062: C_HairB_c_Phy_end
+    400064: C_HairBase_a
+    400066: C_HairC_a_Phy
+    400068: C_HairC_b_Phy
+    400070: C_HairC_c_Phy
+    400072: C_HairC_d_Phy
+    400074: C_HairC_d_Phy_end
+    400076: C_HairD_a_Phy
+    400078: C_HairD_b_Phy
+    400080: C_HairD_c_Phy
+    400082: C_HairD_d_Phy
+    400084: C_HairD_e_Phy
+    400086: C_HairD_f_Phy
+    400088: C_HairD_g_Phy
+    400090: C_HairD_h_Phy
+    400092: C_HairD_i_Phy
+    400094: C_HairD_j_Phy
+    400096: C_HairD_j_Phy_end
+    400098: C_HairD_Spo
+    400100: C_HChestKdi
+    400102: C_Head_a
+    400104: C_Hip_a
+    400106: C_Hip_a 1
+    400108: C_HipW_End
+    400110: C_HipW_End_end
+    400112: C_HipW_Spo
+    400114: C_HipWOsKdi
+    400116: C_HipWPosAKdi
+    400118: C_HipWPosBKdi
+    400120: C_HipWPosBKdi_end
+    400122: C_HipWPosCKdi
+    400124: C_HipWRotAKdi
+    400126: C_HipWRotBKdi
+    400128: C_HipWRotBKdi_end
+    400130: C_KDIRoot
+    400132: C_Neck1W_End
+    400134: C_Neck1W_End_end
+    400136: C_Neck1W_Spo
+    400138: C_Neck_a
+    400140: C_Nose_A
+    400142: C_Nose_A_end
+    400144: C_SkirtA_a_Phy
+    400146: C_SkirtA_b_Phy
+    400148: C_SkirtA_c_Phy
+    400150: C_SkirtA_c_Phy_end
+    400152: C_SkirtA_Spo
+    400154: C_SkirtB_a_Phy
+    400156: C_SkirtB_b_Phy
+    400158: C_SkirtB_c_Phy
+    400160: C_SkirtB_c_Phy_end
+    400162: C_SkirtB_Spo
+    400164: C_Spine1W_End
+    400166: C_Spine1W_End_end
+    400168: C_Spine1W_Spo
+    400170: C_Spine_a
+    400172: C_Spine_a 1
+    400174: C_Spine_b
+    400176: C_Spine_b 1
+    400178: C_Spine_c
+    400180: C_Spine_c 1
+    400182: C_Spine_d
+    400184: C_Spine_d 1
+    400186: C_SuspenderA_a_Phy
+    400188: C_SuspenderA_b_Phy
+    400190: C_SuspenderA_b_Phy_end
+    400192: C_SuspenderA_Spo
+    400194: C_SuspenderB_a_Phy
+    400196: C_SuspenderB_b_Phy
+    400198: C_SuspenderB_b_Phy_end
+    400200: C_SuspenderB_Spo
+    400202: C_Throat_A
+    400204: C_Throat_A_end
+    400206: C_Throat_B
+    400208: C_Throat_B_end
+    400210: C_Tongroot
+    400212: C_Tongroot_end
+    400214: C_Tongtip
+    400216: C_Tongtip_end
+    400218: C_Ulip
+    400220: C_Ulip_end
+    400222: C_Ulipin
+    400224: C_Ulipin_end
+    400226: C_Ulipout
+    400228: C_Ulipout_end
+    400230: C_UpperLeg_Kdi
+    400232: C_UpperLeg_Kdi_end
+    400234: C_Uteeth
+    400236: C_Uteeth_end
+    400238: L_Ankle_End
+    400240: L_Ankle_End_end
+    400242: L_Ankle_Spo
+    400244: L_AnklePart_End
+    400246: L_AnklePart_End_end
+    400248: L_AnklePart_Spo
+    400250: L_BeltA_a_Phy
+    400252: L_BeltA_b_Phy
+    400254: L_BeltA_c_Phy
+    400256: L_BeltA_d_Phy
+    400258: L_BeltA_d_Phy_end
+    400260: L_BeltA_Spo
+    400262: L_BeltB_a_Phy
+    400264: L_BeltB_b_Phy
+    400266: L_BeltB_c_Phy
+    400268: L_BeltB_d_Phy
+    400270: L_BeltB_d_Phy_end
+    400272: L_BeltB_Spo
+    400274: L_BicepsA_End
+    400276: L_BicepsA_End_end
+    400278: L_BicepsA_Spo
+    400280: L_BicepsB_End
+    400282: L_BicepsB_End_end
+    400284: L_BicepsB_Spo
+    400286: L_Breast_a_Phy
+    400288: L_Breast_b_Phy
+    400290: L_Breast_b_Phy_end
+    400292: L_Breast_Spo
+    400294: L_Brow_A
+    400296: L_Brow_A_end
+    400298: L_Brow_B
+    400300: L_Brow_B_end
+    400302: L_Brow_C
+    400304: L_Brow_C_end
+    400306: L_Bust_End
+    400308: L_Bust_End 1
+    400310: L_Bust_End_end
+    400312: L_Bust_End_end 1
+    400314: L_Bust_Spo
+    400316: L_Bust_Spo 1
+    400318: L_CalfB_End
+    400320: L_CalfB_End_end
+    400322: L_CalfB_Spo
+    400324: L_CalfF_End
+    400326: L_CalfF_End_end
+    400328: L_CalfF_Spo
+    400330: L_Cheek_A
+    400332: L_Cheek_A_end
+    400334: L_Cheek_B
+    400336: L_Cheek_B_end
+    400338: L_Cheek_C
+    400340: L_Cheek_C_end
+    400342: L_Dcor
+    400344: L_Dcor_end
+    400346: L_Dcorin
+    400348: L_Dcorin_end
+    400350: L_DeltoidA_End
+    400352: L_DeltoidA_End 1
+    400354: L_DeltoidA_End_end
+    400356: L_DeltoidA_End_end 1
+    400358: L_DeltoidA_Spo
+    400360: L_DeltoidA_Spo 1
+    400362: L_DeltoidB_End
+    400364: L_DeltoidB_End 1
+    400366: L_DeltoidB_End_end
+    400368: L_DeltoidB_End_end 1
+    400370: L_DeltoidB_Spo
+    400372: L_DeltoidB_Spo 1
+    400374: L_DeltoidC_End
+    400376: L_DeltoidC_End 1
+    400378: L_DeltoidC_End_end
+    400380: L_DeltoidC_End_end 1
+    400382: L_DeltoidC_Spo
+    400384: L_DeltoidC_Spo 1
+    400386: L_Dlid_A
+    400388: L_Dlid_A_end
+    400390: L_Dlid_B
+    400392: L_Dlid_B_end
+    400394: L_Dlid_C
+    400396: L_Dlid_C_end
+    400398: L_Dlip_A
+    400400: L_Dlip_A_end
+    400402: L_Dlip_B
+    400404: L_Dlip_B_end
+    400406: L_Dlipin_A
+    400408: L_Dlipin_A_end
+    400410: L_Dlipin_B
+    400412: L_Dlipin_B_end
+    400414: L_Dlipout_A
+    400416: L_Dlipout_A_end
+    400418: L_Dlipout_B
+    400420: L_Dlipout_B_end
+    400422: L_Earring_a_Phy
+    400424: L_Earring_b_Phy
+    400426: L_Earring_c_Phy
+    400428: L_Earring_c_Phy_end
+    400430: L_Earring_Spo
+    400432: L_Elbow_End
+    400434: L_Elbow_End 1
+    400436: L_Elbow_End_end
+    400438: L_Elbow_End_end 1
+    400440: L_Elbow_Spo
+    400442: L_Elbow_Spo 1
+    400444: L_ExToe_End
+    400446: L_ExToe_End_end
+    400448: L_ExToe_Spo
+    400450: L_Eye
+    400452: L_Eye_end
+    400454: L_Eyebag_A
+    400456: L_Eyebag_A_end
+    400458: L_Eyebag_B
+    400460: L_Eyebag_B_end
+    400462: L_FemorisA_End
+    400464: L_FemorisA_End_end
+    400466: L_FemorisA_Spo
+    400468: L_FemorisB_End
+    400470: L_FemorisB_End_end
+    400472: L_FemorisB_Spo
+    400474: L_FemorisBicepsA_End
+    400476: L_FemorisBicepsA_End_end
+    400478: L_FemorisBicepsA_Spo
+    400480: L_FemorisBicepsB_End
+    400482: L_FemorisBicepsB_End_end
+    400484: L_FemorisBicepsB_Spo
+    400486: L_FemorisC_End
+    400488: L_FemorisC_End_end
+    400490: L_FemorisC_Spo
+    400492: L_Fold_A
+    400494: L_Fold_A_end
+    400496: L_Fold_B
+    400498: L_Fold_B_end
+    400500: L_Foot_a
+    400502: L_Forearm_a
+    400504: L_Forearm_a 1
+    400506: L_ForearmrollA_End
+    400508: L_ForearmrollA_End 1
+    400510: L_ForearmrollA_End_end
+    400512: L_ForearmrollA_End_end 1
+    400514: L_ForearmrollA_Spo
+    400516: L_ForearmrollA_Spo 1
+    400518: L_ForearmrollB_End
+    400520: L_ForearmrollB_End 1
+    400522: L_ForearmrollB_End_end
+    400524: L_ForearmrollB_End_end 1
+    400526: L_ForearmrollB_Spo
+    400528: L_ForearmrollB_Spo 1
+    400530: L_ForearmrollC_End
+    400532: L_ForearmrollC_End 1
+    400534: L_ForearmrollC_End_end
+    400536: L_ForearmrollC_End_end 1
+    400538: L_ForearmrollC_Spo
+    400540: L_ForearmrollC_Spo 1
+    400542: L_Forehead
+    400544: L_Forehead_end
+    400546: L_Foreleg_a
+    400548: L_Glabella
+    400550: L_Glabella_end
+    400552: L_Gonion
+    400554: L_Gonion_end
+    400556: L_HairA_a_Phy
+    400558: L_HairA_b_Phy
+    400560: L_HairA_c_Phy
+    400562: L_HairA_c_Phy_end
+    400564: L_HairB_a_Phy
+    400566: L_HairB_b_Phy
+    400568: L_HairB_c_Phy
+    400570: L_HairB_c_Phy_end
+    400572: L_HairC_a_Phy
+    400574: L_HairC_b_Phy
+    400576: L_HairC_b_Phy_end
+    400578: L_HairD_a_Phy
+    400580: L_HairD_b_Phy
+    400582: L_HairD_c_Phy
+    400584: L_HairD_d_Phy
+    400586: L_HairD_d_Phy_end
+    400588: L_HairE_a_Phy
+    400590: L_HairE_b_Phy
+    400592: L_HairE_c_Phy
+    400594: L_HairE_d_Phy
+    400596: L_HairE_e_Phy
+    400598: L_HairE_f_Phy
+    400600: L_HairE_g_Phy
+    400602: L_HairE_h_Phy
+    400604: L_HairE_h_Phy_end
+    400606: L_HairE_Spo
+    400608: L_Hand_a
+    400610: L_Hand_a 1
+    400612: L_Hip_End
+    400614: L_Hip_End_end
+    400616: L_Hip_Spo
+    400618: L_Index_a
+    400620: L_Index_a 1
+    400622: L_Index_b
+    400624: L_Index_b 1
+    400626: L_Index_c
+    400628: L_Index_c 1
+    400630: L_Index_End
+    400632: L_Index_End 1
+    400634: L_Index_End_end
+    400636: L_Index_End_end 1
+    400638: L_Knee_End
+    400640: L_Knee_End_end
+    400642: L_Knee_Spo
+    400644: L_Knuckle_End
+    400646: L_Knuckle_End_end
+    400648: L_Knuckle_Spo
+    400650: L_KnuckleIndex_End
+    400652: L_KnuckleIndex_End_end
+    400654: L_KnuckleIndexA_Spo
+    400656: L_KnuckleIndexB_Spo
+    400658: L_KnuckleMiddle_End
+    400660: L_KnuckleMiddle_End_end
+    400662: L_KnuckleMiddleA_Spo
+    400664: L_KnuckleMiddleB_Spo
+    400666: L_KnucklePinky_End
+    400668: L_KnucklePinky_End_end
+    400670: L_KnucklePinkyA_Spo
+    400672: L_KnucklePinkyB_Spo
+    400674: L_KnuckleRing_End
+    400676: L_KnuckleRing_End_end
+    400678: L_KnuckleRingA_Spo
+    400680: L_KnuckleRingB_Spo
+    400682: L_Laughline_A
+    400684: L_Laughline_A_end
+    400686: L_Laughline_B
+    400688: L_Laughline_B_end
+    400690: L_Middle_a
+    400692: L_Middle_a 1
+    400694: L_Middle_b
+    400696: L_Middle_b 1
+    400698: L_Middle_c
+    400700: L_Middle_c 1
+    400702: L_Middle_End
+    400704: L_Middle_End 1
+    400706: L_Middle_End_end
+    400708: L_Middle_End_end 1
+    400710: L_Nose_A
+    400712: L_Nose_A_end
+    400714: L_Nose_B
+    400716: L_Nose_B_end
+    400718: L_Pinky_a
+    400720: L_Pinky_a 1
+    400722: L_Pinky_b
+    400724: L_Pinky_b 1
+    400726: L_Pinky_c
+    400728: L_Pinky_c 1
+    400730: L_Pinky_End
+    400732: L_Pinky_End 1
+    400734: L_Pinky_End_end
+    400736: L_Pinky_End_end 1
+    400738: L_Protector_End
+    400740: L_Protector_End_end
+    400742: L_Protector_Spo
+    400744: L_ProtectorA_End
+    400746: L_ProtectorA_End_end
+    400748: L_ProtectorA_Spo
+    400750: L_ProtectorB_End
+    400752: L_ProtectorB_End_end
+    400754: L_ProtectorB_Spo
+    400756: L_ProtectorBeltA_End
+    400758: L_ProtectorBeltA_End_end
+    400760: L_ProtectorBeltA_Spo
+    400762: L_ProtectorBeltB_End
+    400764: L_ProtectorBeltB_End_end
+    400766: L_ProtectorBeltB_Spo
+    400768: L_ProtectorBeltC_End
+    400770: L_ProtectorBeltC_End_end
+    400772: L_ProtectorBeltC_Spo
+    400774: L_Ring_a
+    400776: L_Ring_a 1
+    400778: L_Ring_b
+    400780: L_Ring_b 1
+    400782: L_Ring_c
+    400784: L_Ring_c 1
+    400786: L_Ring_End
+    400788: L_Ring_End 1
+    400790: L_Ring_End_end
+    400792: L_Ring_End_end 1
+    400794: L_Shoulder_a
+    400796: L_Shoulder_a 1
+    400798: L_ShoulderSub_End
+    400800: L_ShoulderSub_End 1
+    400802: L_ShoulderSub_End_end
+    400804: L_ShoulderSub_End_end 1
+    400806: L_ShoulderSub_Spo
+    400808: L_ShoulderSub_Spo 1
+    400810: L_SkirtA_a_Phy
+    400812: L_SkirtA_b_Phy
+    400814: L_SkirtA_c_Phy
+    400816: L_SkirtA_c_Phy_end
+    400818: L_SkirtA_Spo
+    400820: L_SkirtB_a_Phy
+    400822: L_SkirtB_b_Phy
+    400824: L_SkirtB_c_Phy
+    400826: L_SkirtB_c_Phy_end
+    400828: L_SkirtB_Spo
+    400830: L_SkirtC_a_Phy
+    400832: L_SkirtC_b_Phy
+    400834: L_SkirtC_c_Phy
+    400836: L_SkirtC_c_Phy_end
+    400838: L_SkirtC_Spo
+    400840: L_SkirtD_a_Phy
+    400842: L_SkirtD_b_Phy
+    400844: L_SkirtD_c_Phy
+    400846: L_SkirtD_c_Phy_end
+    400848: L_SkirtD_Spo
+    400850: L_SuspenderA_a_Phy
+    400852: L_SuspenderA_a_Phy 1
+    400854: L_SuspenderA_b_Phy
+    400856: L_SuspenderA_b_Phy 1
+    400858: L_SuspenderA_b_Phy_end
+    400860: L_SuspenderA_b_Phy_end 1
+    400862: L_SuspenderA_Spo
+    400864: L_SuspenderA_Spo 1
+    400866: L_SuspenderB_a_Phy
+    400868: L_SuspenderB_a_Phy 1
+    400870: L_SuspenderB_b_Phy
+    400872: L_SuspenderB_b_Phy 1
+    400874: L_SuspenderB_b_Phy_end
+    400876: L_SuspenderB_b_Phy_end 1
+    400878: L_SuspenderB_Spo
+    400880: L_SuspenderB_Spo 1
+    400882: L_SuspenderC_a_Phy
+    400884: L_SuspenderC_b_Phy
+    400886: L_SuspenderC_b_Phy_end
+    400888: L_SuspenderC_Spo
+    400890: L_SuspenderD_a_Phy
+    400892: L_SuspenderD_b_Phy
+    400894: L_SuspenderD_b_Phy_end
+    400896: L_SuspenderD_Spo
+    400898: L_SuspenderE_a_Phy
+    400900: L_SuspenderE_b_Phy
+    400902: L_SuspenderE_b_Phy_end
+    400904: L_SuspenderE_Spo
+    400906: L_Thumb_a
+    400908: L_Thumb_a 1
+    400910: L_Thumb_b
+    400912: L_Thumb_b 1
+    400914: L_Thumb_c
+    400916: L_Thumb_c 1
+    400918: L_Thumb_End
+    400920: L_Thumb_End 1
+    400922: L_Thumb_End_end
+    400924: L_Thumb_End_end 1
+    400926: L_Toe_a
+    400928: L_Toe_End
+    400930: L_Toe_End_end
+    400932: L_Ucor
+    400934: L_Ucor_end
+    400936: L_Ucorin
+    400938: L_Ucorin_end
+    400940: L_Ulash_A
+    400942: L_Ulash_A_end
+    400944: L_Ulash_B
+    400946: L_Ulash_B_end
+    400948: L_Ulid_A
+    400950: L_Ulid_A_end
+    400952: L_Ulid_B
+    400954: L_Ulid_B_end
+    400956: L_Ulid_C
+    400958: L_Ulid_C_end
+    400960: L_Ulid_D
+    400962: L_Ulid_D_end
+    400964: L_Ulid_E
+    400966: L_Ulid_E_end
+    400968: L_Ulip_A
+    400970: L_Ulip_A_end
+    400972: L_Ulip_B
+    400974: L_Ulip_B_end
+    400976: L_Ulipin_A
+    400978: L_Ulipin_A_end
+    400980: L_Ulipin_B
+    400982: L_Ulipin_B_end
+    400984: L_UpperArm_a
+    400986: L_UpperArm_a 1
+    400988: L_UpperLeg_a
+    400990: L_UpperLeg_Kdi
+    400992: L_UpperLeg_Kdi_end
+    400994: L_Weapon_a
+    400996: L_Weapon_a 1
+    400998: L_Weapon_a_end
+    401000: L_Weapon_a_end 1
+    401002: L_WirePosKdi
+    401004: L_WirePosKdi_end
+    401006: L_Wrist_End
+    401008: L_Wrist_End 1
+    401010: L_Wrist_End_end
+    401012: L_Wrist_End_end 1
+    401014: L_Wrist_Spo
+    401016: L_Wrist_Spo 1
+    401018: L_WristBand_End
+    401020: L_WristBand_End_end
+    401022: L_WristBand_Spo
+    401024: L_WristGurde_End
+    401026: L_WristGurde_End_end
+    401028: L_WristGurde_Spo
+    401030: L_WristSubA_a_Phy
+    401032: L_WristSubA_b_Phy
+    401034: L_WristSubA_b_Phy_end
+    401036: L_WristSubA_End
+    401038: L_WristSubA_End_end
+    401040: L_WristSubA_Spo
+    401042: L_WristSubB_a_Phy
+    401044: L_WristSubB_b_Phy
+    401046: L_WristSubB_b_Phy_end
+    401048: L_WristSubB_End
+    401050: L_WristSubB_End_end
+    401052: L_WristSubB_Spo
+    401054: L_WristSubC_a_Phy
+    401056: L_WristSubC_b_Phy
+    401058: L_WristSubC_b_Phy_end
+    401060: L_WristSubC_End
+    401062: L_WristSubC_End_end
+    401064: L_WristSubC_Spo
+    401066: L_WristSubD_a_Phy
+    401068: L_WristSubD_b_Phy
+    401070: L_WristSubD_b_Phy_end
+    401072: L_WristSubD_End
+    401074: L_WristSubD_End_end
+    401076: L_WristSubD_Spo
+    401078: L_WristSubE_a_Phy
+    401080: L_WristSubE_b_Phy
+    401082: L_WristSubE_b_Phy_end
+    401084: L_WristSubE_End
+    401086: L_WristSubE_End_end
+    401088: L_WristSubE_Spo
+    401090: L_WristSubF_a_Phy
+    401092: L_WristSubF_b_Phy
+    401094: L_WristSubF_b_Phy_end
+    401096: L_WristSubF_End
+    401098: L_WristSubF_End_end
+    401100: L_WristSubF_Spo
+    401102: L_WristSubG_a_Phy
+    401104: L_WristSubG_b_Phy
+    401106: L_WristSubG_b_Phy_end
+    401108: L_WristSubG_End
+    401110: L_WristSubG_End_end
+    401112: L_WristSubG_Spo
+    401114: L_WristSubH_a_Phy
+    401116: L_WristSubH_b_Phy
+    401118: L_WristSubH_b_Phy_end
+    401120: L_WristSubH_End
+    401122: L_WristSubH_End_end
+    401124: L_WristSubH_Spo
+    401126: L_WristSubRoot_Spo
+    401128: L_Zygoma
+    401130: L_Zygoma_end
+    401132: //RootNode
+    401134: R_BeltA_a_Phy
+    401136: R_BeltA_b_Phy
+    401138: R_BeltA_c_Phy
+    401140: R_BeltA_d_Phy
+    401142: R_BeltA_d_Phy_end
+    401144: R_BeltA_Spo
+    401146: R_BeltB_a_Phy
+    401148: R_BeltB_b_Phy
+    401150: R_BeltB_c_Phy
+    401152: R_BeltB_d_Phy
+    401154: R_BeltB_d_Phy_end
+    401156: R_BeltB_Spo
+    401158: R_BicepsA_End
+    401160: R_BicepsA_End_end
+    401162: R_BicepsA_Spo
+    401164: R_BicepsB_End
+    401166: R_BicepsB_End_end
+    401168: R_BicepsB_Spo
+    401170: R_Breast_a_Phy
+    401172: R_Breast_b_Phy
+    401174: R_Breast_b_Phy_end
+    401176: R_Breast_Spo
+    401178: R_Brow_A
+    401180: R_Brow_A_end
+    401182: R_Brow_B
+    401184: R_Brow_B_end
+    401186: R_Brow_C
+    401188: R_Brow_C_end
+    401190: R_Bust_End
+    401192: R_Bust_End 1
+    401194: R_Bust_End_end
+    401196: R_Bust_End_end 1
+    401198: R_Bust_Spo
+    401200: R_Bust_Spo 1
+    401202: R_CalfB_End
+    401204: R_CalfB_End_end
+    401206: R_CalfB_Spo
+    401208: R_CalfF_End
+    401210: R_CalfF_End_end
+    401212: R_CalfF_Spo
+    401214: R_Cheek_A
+    401216: R_Cheek_A_end
+    401218: R_Cheek_B
+    401220: R_Cheek_B_end
+    401222: R_Cheek_C
+    401224: R_Cheek_C_end
+    401226: R_Dcor
+    401228: R_Dcor_end
+    401230: R_Dcorin
+    401232: R_Dcorin_end
+    401234: R_DeltoidA_End
+    401236: R_DeltoidA_End 1
+    401238: R_DeltoidA_End_end
+    401240: R_DeltoidA_End_end 1
+    401242: R_DeltoidA_Spo
+    401244: R_DeltoidA_Spo 1
+    401246: R_DeltoidB_End
+    401248: R_DeltoidB_End 1
+    401250: R_DeltoidB_End_end
+    401252: R_DeltoidB_End_end 1
+    401254: R_DeltoidB_Spo
+    401256: R_DeltoidB_Spo 1
+    401258: R_DeltoidC_End
+    401260: R_DeltoidC_End 1
+    401262: R_DeltoidC_End_end
+    401264: R_DeltoidC_End_end 1
+    401266: R_DeltoidC_Spo
+    401268: R_DeltoidC_Spo 1
+    401270: R_Dlid_A
+    401272: R_Dlid_A_end
+    401274: R_Dlid_B
+    401276: R_Dlid_B_end
+    401278: R_Dlid_C
+    401280: R_Dlid_C_end
+    401282: R_Dlip_A
+    401284: R_Dlip_A_end
+    401286: R_Dlip_B
+    401288: R_Dlip_B_end
+    401290: R_Dlipin_A
+    401292: R_Dlipin_A_end
+    401294: R_Dlipin_B
+    401296: R_Dlipin_B_end
+    401298: R_Dlipout_A
+    401300: R_Dlipout_A_end
+    401302: R_Dlipout_B
+    401304: R_Dlipout_B_end
+    401306: R_Elbow_End
+    401308: R_Elbow_End 1
+    401310: R_Elbow_End_end
+    401312: R_Elbow_End_end 1
+    401314: R_Elbow_Spo
+    401316: R_Elbow_Spo 1
+    401318: R_Eye
+    401320: R_Eye_end
+    401322: R_Eyebag_A
+    401324: R_Eyebag_A_end
+    401326: R_Eyebag_B
+    401328: R_Eyebag_B_end
+    401330: R_FemorisA_End
+    401332: R_FemorisA_End_end
+    401334: R_FemorisA_Spo
+    401336: R_FemorisB_End
+    401338: R_FemorisB_End_end
+    401340: R_FemorisB_Spo
+    401342: R_FemorisBicepsA_End
+    401344: R_FemorisBicepsA_End_end
+    401346: R_FemorisBicepsA_Spo
+    401348: R_FemorisBicepsB_End
+    401350: R_FemorisBicepsB_End_end
+    401352: R_FemorisBicepsB_Spo
+    401354: R_FemorisC_End
+    401356: R_FemorisC_End_end
+    401358: R_FemorisC_Spo
+    401360: R_Fold_A
+    401362: R_Fold_A_end
+    401364: R_Fold_B
+    401366: R_Fold_B_end
+    401368: R_Foot_a
+    401370: R_Forearm_a
+    401372: R_Forearm_a 1
+    401374: R_ForearmrollA_End
+    401376: R_ForearmrollA_End 1
+    401378: R_ForearmrollA_End_end
+    401380: R_ForearmrollA_End_end 1
+    401382: R_ForearmrollA_Spo
+    401384: R_ForearmrollA_Spo 1
+    401386: R_ForearmrollB_End
+    401388: R_ForearmrollB_End 1
+    401390: R_ForearmrollB_End_end
+    401392: R_ForearmrollB_End_end 1
+    401394: R_ForearmrollB_Spo
+    401396: R_ForearmrollB_Spo 1
+    401398: R_ForearmrollC_End
+    401400: R_ForearmrollC_End 1
+    401402: R_ForearmrollC_End_end
+    401404: R_ForearmrollC_End_end 1
+    401406: R_ForearmrollC_Spo
+    401408: R_ForearmrollC_Spo 1
+    401410: R_Forehead
+    401412: R_Forehead_end
+    401414: R_Foreleg_a
+    401416: R_Glabella
+    401418: R_Glabella_end
+    401420: R_Gonion
+    401422: R_Gonion_end
+    401424: R_HairA_a_Phy
+    401426: R_HairA_b_Phy
+    401428: R_HairA_c_Phy
+    401430: R_HairA_d_Phy
+    401432: R_HairA_d_Phy_end
+    401434: R_HairB_a_Phy
+    401436: R_HairB_b_Phy
+    401438: R_HairB_c_Phy
+    401440: R_HairB_d_Phy
+    401442: R_HairB_e_Phy
+    401444: R_HairB_f_Phy
+    401446: R_HairB_f_Phy_end
+    401448: R_HairC_a_Phy
+    401450: R_HairC_b_Phy
+    401452: R_HairC_c_Phy
+    401454: R_HairC_d_Phy
+    401456: R_HairC_e_Phy
+    401458: R_HairC_f_Phy
+    401460: R_HairC_f_Phy_end
+    401462: R_HairD_a_Phy
+    401464: R_HairD_b_Phy
+    401466: R_HairD_c_Phy
+    401468: R_HairD_d_Phy
+    401470: R_HairD_e_Phy
+    401472: R_HairD_f_Phy
+    401474: R_HairD_f_Phy_end
+    401476: R_HairE_a_Phy
+    401478: R_HairE_b_Phy
+    401480: R_HairE_c_Phy
+    401482: R_HairE_d_Phy
+    401484: R_HairE_e_Phy
+    401486: R_HairE_f_Phy
+    401488: R_HairE_g_Phy
+    401490: R_HairE_h_Phy
+    401492: R_HairE_h_Phy_end
+    401494: R_HairE_Spo
+    401496: R_HairF_a_Phy
+    401498: R_HairF_b_Phy
+    401500: R_HairF_c_Phy
+    401502: R_HairF_d_Phy
+    401504: R_HairF_d_Phy_end
+    401506: R_HairG_a_Phy
+    401508: R_HairG_b_Phy
+    401510: R_HairG_c_Phy
+    401512: R_HairG_c_Phy_end
+    401514: R_Hand_a
+    401516: R_Hand_a 1
+    401518: R_Hip_End
+    401520: R_Hip_End_end
+    401522: R_Hip_Spo
+    401524: R_Index_a
+    401526: R_Index_a 1
+    401528: R_Index_b
+    401530: R_Index_b 1
+    401532: R_Index_c
+    401534: R_Index_c 1
+    401536: R_Index_End
+    401538: R_Index_End 1
+    401540: R_Index_End_end
+    401542: R_Index_End_end 1
+    401544: R_Knee_End
+    401546: R_Knee_End_end
+    401548: R_Knee_Spo
+    401550: R_Knuckle_End
+    401552: R_Knuckle_End_end
+    401554: R_Knuckle_Spo
+    401556: R_KnuckleIndex_End
+    401558: R_KnuckleIndex_End_end
+    401560: R_KnuckleIndexA_Spo
+    401562: R_KnuckleIndexB_Spo
+    401564: R_KnuckleMiddle_End
+    401566: R_KnuckleMiddle_End_end
+    401568: R_KnuckleMiddleA_Spo
+    401570: R_KnuckleMiddleB_Spo
+    401572: R_KnucklePinky_End
+    401574: R_KnucklePinky_End_end
+    401576: R_KnucklePinkyA_Spo
+    401578: R_KnucklePinkyB_Spo
+    401580: R_KnuckleRing_End
+    401582: R_KnuckleRing_End_end
+    401584: R_KnuckleRingA_Spo
+    401586: R_KnuckleRingB_Spo
+    401588: R_Laughline_A
+    401590: R_Laughline_A_end
+    401592: R_Laughline_B
+    401594: R_Laughline_B_end
+    401596: R_Middle_a
+    401598: R_Middle_a 1
+    401600: R_Middle_b
+    401602: R_Middle_b 1
+    401604: R_Middle_c
+    401606: R_Middle_c 1
+    401608: R_Middle_End
+    401610: R_Middle_End 1
+    401612: R_Middle_End_end
+    401614: R_Middle_End_end 1
+    401616: R_Nose_A
+    401618: R_Nose_A_end
+    401620: R_Nose_B
+    401622: R_Nose_B_end
+    401624: R_Pinky_a
+    401626: R_Pinky_a 1
+    401628: R_Pinky_b
+    401630: R_Pinky_b 1
+    401632: R_Pinky_c
+    401634: R_Pinky_c 1
+    401636: R_Pinky_End
+    401638: R_Pinky_End 1
+    401640: R_Pinky_End_end
+    401642: R_Pinky_End_end 1
+    401644: R_Ring_a
+    401646: R_Ring_a 1
+    401648: R_Ring_b
+    401650: R_Ring_b 1
+    401652: R_Ring_c
+    401654: R_Ring_c 1
+    401656: R_Ring_End
+    401658: R_Ring_End 1
+    401660: R_Ring_End_end
+    401662: R_Ring_End_end 1
+    401664: R_Shoulder_a
+    401666: R_Shoulder_a 1
+    401668: R_ShoulderSub_End
+    401670: R_ShoulderSub_End 1
+    401672: R_ShoulderSub_End_end
+    401674: R_ShoulderSub_End_end 1
+    401676: R_ShoulderSub_Spo
+    401678: R_ShoulderSub_Spo 1
+    401680: R_SkirtA_a_Phy
+    401682: R_SkirtA_b_Phy
+    401684: R_SkirtA_c_Phy
+    401686: R_SkirtA_c_Phy_end
+    401688: R_SkirtA_Spo
+    401690: R_SkirtB_a_Phy
+    401692: R_SkirtB_b_Phy
+    401694: R_SkirtB_c_Phy
+    401696: R_SkirtB_c_Phy_end
+    401698: R_SkirtB_Spo
+    401700: R_SkirtC_a_Phy
+    401702: R_SkirtC_b_Phy
+    401704: R_SkirtC_c_Phy
+    401706: R_SkirtC_c_Phy_end
+    401708: R_SkirtC_Spo
+    401710: R_SkirtD_a_Phy
+    401712: R_SkirtD_b_Phy
+    401714: R_SkirtD_c_Phy
+    401716: R_SkirtD_c_Phy_end
+    401718: R_SkirtD_Spo
+    401720: R_SuspenderA_a_Phy
+    401722: R_SuspenderA_a_Phy 1
+    401724: R_SuspenderA_b_Phy
+    401726: R_SuspenderA_b_Phy 1
+    401728: R_SuspenderA_b_Phy_end
+    401730: R_SuspenderA_b_Phy_end 1
+    401732: R_SuspenderA_Spo
+    401734: R_SuspenderA_Spo 1
+    401736: R_SuspenderB_a_Phy
+    401738: R_SuspenderB_a_Phy 1
+    401740: R_SuspenderB_b_Phy
+    401742: R_SuspenderB_b_Phy 1
+    401744: R_SuspenderB_b_Phy_end
+    401746: R_SuspenderB_b_Phy_end 1
+    401748: R_SuspenderB_Spo
+    401750: R_SuspenderB_Spo 1
+    401752: R_SuspenderC_a_Phy
+    401754: R_SuspenderC_b_Phy
+    401756: R_SuspenderC_b_Phy_end
+    401758: R_SuspenderC_Spo
+    401760: R_SuspenderD_a_Phy
+    401762: R_SuspenderD_b_Phy
+    401764: R_SuspenderD_b_Phy_end
+    401766: R_SuspenderD_Spo
+    401768: R_SuspenderE_a_Phy
+    401770: R_SuspenderE_b_Phy
+    401772: R_SuspenderE_b_Phy_end
+    401774: R_SuspenderE_Spo
+    401776: R_Thumb_a
+    401778: R_Thumb_a 1
+    401780: R_Thumb_b
+    401782: R_Thumb_b 1
+    401784: R_Thumb_c
+    401786: R_Thumb_c 1
+    401788: R_Thumb_End
+    401790: R_Thumb_End 1
+    401792: R_Thumb_End_end
+    401794: R_Thumb_End_end 1
+    401796: R_Toe_a
+    401798: R_Toe_End
+    401800: R_Toe_End_end
+    401802: R_Ucor
+    401804: R_Ucor_end
+    401806: R_Ucorin
+    401808: R_Ucorin_end
+    401810: R_Ulash_A
+    401812: R_Ulash_A_end
+    401814: R_Ulash_B
+    401816: R_Ulash_B_end
+    401818: R_Ulid_A
+    401820: R_Ulid_A_end
+    401822: R_Ulid_B
+    401824: R_Ulid_B_end
+    401826: R_Ulid_C
+    401828: R_Ulid_C_end
+    401830: R_Ulid_D
+    401832: R_Ulid_D_end
+    401834: R_Ulid_E
+    401836: R_Ulid_E_end
+    401838: R_Ulip_A
+    401840: R_Ulip_A_end
+    401842: R_Ulip_B
+    401844: R_Ulip_B_end
+    401846: R_Ulipin_A
+    401848: R_Ulipin_A_end
+    401850: R_Ulipin_B
+    401852: R_Ulipin_B_end
+    401854: R_UpperArm_a
+    401856: R_UpperArm_a 1
+    401858: R_UpperLeg_a
+    401860: R_UpperLeg_Kdi
+    401862: R_UpperLeg_Kdi_end
+    401864: R_Weapon_a
+    401866: R_Weapon_a 1
+    401868: R_Weapon_a_end
+    401870: R_Weapon_a_end 1
+    401872: R_WirePosKdi
+    401874: R_WirePosKdi_end
+    401876: R_Wrist_End
+    401878: R_Wrist_End 1
+    401880: R_Wrist_End_end
+    401882: R_Wrist_End_end 1
+    401884: R_Wrist_Spo
+    401886: R_Wrist_Spo 1
+    401888: R_WristBand_End
+    401890: R_WristBand_End_end
+    401892: R_WristBand_Spo
+    401894: R_WristGurde_End
+    401896: R_WristGurde_End_end
+    401898: R_WristGurde_Spo
+    401900: R_WristSubA_a_Phy
+    401902: R_WristSubA_b_Phy
+    401904: R_WristSubA_b_Phy_end
+    401906: R_WristSubA_End
+    401908: R_WristSubA_End_end
+    401910: R_WristSubA_Spo
+    401912: R_WristSubB_a_Phy
+    401914: R_WristSubB_b_Phy
+    401916: R_WristSubB_b_Phy_end
+    401918: R_WristSubB_End
+    401920: R_WristSubB_End_end
+    401922: R_WristSubB_Spo
+    401924: R_WristSubC_a_Phy
+    401926: R_WristSubC_b_Phy
+    401928: R_WristSubC_b_Phy_end
+    401930: R_WristSubC_End
+    401932: R_WristSubC_End_end
+    401934: R_WristSubC_Spo
+    401936: R_WristSubD_a_Phy
+    401938: R_WristSubD_b_Phy
+    401940: R_WristSubD_b_Phy_end
+    401942: R_WristSubD_End
+    401944: R_WristSubD_End_end
+    401946: R_WristSubD_Spo
+    401948: R_WristSubE_a_Phy
+    401950: R_WristSubE_b_Phy
+    401952: R_WristSubE_b_Phy_end
+    401954: R_WristSubE_End
+    401956: R_WristSubE_End_end
+    401958: R_WristSubE_Spo
+    401960: R_WristSubF_a_Phy
+    401962: R_WristSubF_b_Phy
+    401964: R_WristSubF_b_Phy_end
+    401966: R_WristSubF_End
+    401968: R_WristSubF_End_end
+    401970: R_WristSubF_Spo
+    401972: R_WristSubG_a_Phy
+    401974: R_WristSubG_b_Phy
+    401976: R_WristSubG_b_Phy_end
+    401978: R_WristSubG_End
+    401980: R_WristSubG_End_end
+    401982: R_WristSubG_Spo
+    401984: R_WristSubH_a_Phy
+    401986: R_WristSubH_b_Phy
+    401988: R_WristSubH_b_Phy_end
+    401990: R_WristSubH_End
+    401992: R_WristSubH_End_end
+    401994: R_WristSubH_Spo
+    401996: R_WristSubRoot_Spo
+    401998: R_Zygoma
+    402000: R_Zygoma_end
+    402002: Tifa_LeatherGlove_Armature
+    402004: Tifa_LeatherGlove_model
+    402006: Tifa_Standard_Armature
+    402008: Tifa_Standard_model
+    402010: Tifa_Standard_model_MeshPart0
+    402012: Tifa_Standard_model_MeshPart1
+    402014: Trans
+    402016: Trans 1
+    4300000: Tifa_Standard_model_MeshPart0
+    4300002: Tifa_Standard_model_MeshPart1
+    4300004: Tifa_LeatherGlove_model
+    9500000: //RootNode
+    13700000: Tifa_LeatherGlove_model
+    13700002: Tifa_Standard_model_MeshPart0
+    13700004: Tifa_Standard_model_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
